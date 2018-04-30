@@ -1,0 +1,6 @@
+name: pywr
+channels:
+  - conda-forge
+  - pywr
+dependencies:
+  - pywr
